@@ -96,3 +96,7 @@ Transaction Date
 Payment Method
 
 Customer Rating
+
+<img width="1321" height="745" alt="image" src="https://github.com/user-attachments/assets/b47d6c4d-0386-4c78-bc32-a7e05640ad7f" />
+
+
